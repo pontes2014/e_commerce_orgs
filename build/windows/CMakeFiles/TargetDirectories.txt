@@ -1,0 +1,10 @@
+C:/Projetos/e_commerce_orgs/build/windows/CMakeFiles/INSTALL.dir
+C:/Projetos/e_commerce_orgs/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Projetos/e_commerce_orgs/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Projetos/e_commerce_orgs/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Projetos/e_commerce_orgs/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Projetos/e_commerce_orgs/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Projetos/e_commerce_orgs/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Projetos/e_commerce_orgs/build/windows/runner/CMakeFiles/e_commerce_orgs.dir
+C:/Projetos/e_commerce_orgs/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Projetos/e_commerce_orgs/build/windows/runner/CMakeFiles/ALL_BUILD.dir

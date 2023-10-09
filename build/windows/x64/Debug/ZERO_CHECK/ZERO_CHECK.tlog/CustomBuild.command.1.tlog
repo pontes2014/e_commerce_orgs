@@ -1,0 +1,10 @@
+^C:\PROJETOS\E_COMMERCE_ORGS\BUILD\WINDOWS\CMAKEFILES\FFE79F2655187C6D0E62F338263E3EEE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Projetos/e_commerce_orgs/windows -BC:/Projetos/e_commerce_orgs/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Projetos/e_commerce_orgs/build/windows/e_commerce_orgs.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
